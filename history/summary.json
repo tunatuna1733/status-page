@@ -4,18 +4,20 @@
     "url": "https://lol.tunatuna.dev",
     "icon": "https://icons.duckduckgo.com/ip3/lol.tunatuna.dev.ico",
     "slug": "lo-l-tools-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 219,
-    "timeWeek": 209,
-    "timeMonth": 217,
-    "timeYear": 217,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 213,
+    "timeDay": 203,
+    "timeWeek": 205,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2025-12-21": 16
+    }
   },
   {
     "name": "LoL Tools Backend",
