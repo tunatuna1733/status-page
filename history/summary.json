@@ -42,17 +42,19 @@
     "url": "https://akali.tunatuna.dev",
     "icon": "https://icons.duckduckgo.com/ip3/akali.tunatuna.dev.ico",
     "slug": "lo-l-tools-discord-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 476,
-    "timeWeek": 516,
-    "timeMonth": 563,
-    "timeYear": 563,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 455,
+    "timeWeek": 505,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   }
 ]
