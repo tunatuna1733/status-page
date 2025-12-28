@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lol.tunatuna.dev.ico",
     "slug": "lo-l-tools-frontend",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 228,
-    "timeDay": 208,
-    "timeWeek": 243,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 224,
+    "timeDay": 140,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-12-21": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 664,
-    "timeWeek": 562,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 548,
+    "timeDay": 478,
+    "timeWeek": 555,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 605,
-    "timeWeek": 530,
-    "timeMonth": 554,
-    "timeYear": 554,
+    "time": 551,
+    "timeDay": 492,
+    "timeWeek": 520,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   }
 ]
