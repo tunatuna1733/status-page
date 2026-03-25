@@ -1,7 +1,7 @@
 url: https://urgot.tunatuna.dev
-status: up
-code: 200
-responseTime: 625
-lastUpdated: 2026-03-24T23:25:06.131Z
+status: down
+code: 502
+responseTime: 587
+lastUpdated: 2026-03-25T10:12:17.491Z
 startTime: 2025-12-10T08:50:09.655Z
 generator: Upptime <https://github.com/upptime/upptime>
